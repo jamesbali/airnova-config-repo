@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      server:
+        message: "Hello from the remote config!"
